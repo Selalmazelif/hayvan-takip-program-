@@ -1,0 +1,16 @@
+C:\Users\Elif\source\repos\dokunma\proje\bin\Debug\proje.exe.config
+C:\Users\Elif\source\repos\dokunma\proje\bin\Debug\proje.exe
+C:\Users\Elif\source\repos\dokunma\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\Elif\source\repos\dokunma\proje\obj\Debug\proje.Form1.resources
+C:\Users\Elif\source\repos\dokunma\proje\obj\Debug\proje.Form2.resources
+C:\Users\Elif\source\repos\dokunma\proje\obj\Debug\proje.Form3.resources
+C:\Users\Elif\source\repos\dokunma\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\Elif\source\repos\dokunma\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\Elif\source\repos\dokunma\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\Elif\source\repos\dokunma\proje\obj\Debug\proje.exe
+C:\Users\Elif\source\repos\dokunma\proje\obj\Debug\proje.pdb
+C:\Users\Elif\source\repos\dokunma\proje\bin\Debug\proje.pdb
+C:\Users\Elif\source\repos\dokunma\proje\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elif\source\repos\dokunma\proje\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Elif\source\repos\dokunma\proje\obj\Debug\proje.csproj.Up2Date
+C:\Users\Elif\source\repos\dokunma\proje\obj\Debug\proje.exe.config
